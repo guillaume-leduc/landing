@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&family=Lora:wght@500&family=Nunito&family=Raleway&family=Roboto+Slab:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url("componements/container.css");
+@import url("componements/avatar.css");
+@import url("componements/btn-blue.css");
+@import url("componements/banner.css");
+@import url("componements/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}

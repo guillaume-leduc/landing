@@ -1,0 +1,25 @@
+.banner {
+	background-image: linear-gradient(-220deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1) 50%), url(../../images/iguazu.jpeg);
+	background-size: cover;
+	background-position: center;
+	max-height: 600px;
+	color: white;
+	padding: 150px 0px;
+	padding-top: 20px;
+}
+.banner h1 {
+	font-size: 50px;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+	padding-top: 270px;
+}
+.banner p {
+	font-size: 20px;
+	margin-bottom: 40px;
+	font-family: 'Raleway', sans-serif;
+
+}

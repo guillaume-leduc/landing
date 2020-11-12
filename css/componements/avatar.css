@@ -1,0 +1,26 @@
+.avatar img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	padding: auto;
+	margin: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	margin-top: 30px;
+}
+
+
+
+.avatar {
+	background-color: #fbf7f0;
+	color: rgb(86 89 93)
+	font-size: 20px;
+	padding: 20px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 5px;
+	margin: 20px 0px;
+	text-align: center;
+	
+}
+.avatar p {
+	font-family: 'Indie Flower', cursive;
+}
